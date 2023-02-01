@@ -37,14 +37,14 @@
 
 ## Soovitud funktsionaalsus <a name="features"></a>
 
-- Anda ja võtta loomi
-- Annetamine
-- Hulkuvad/kadunud loomad
-- Kõik varjupaigad
-- Live cat cam
-- Kuulutused
-- Looma kohta info
-- Filtreerimine
+- Võimalik kasutada erinevates kauplustes
+- Aitab leida konkreetse toote kaupluses
+- Aitab leida tootegruppide asukohad
+- 
+- 
+- 
+- 
+- 
 
 ## Kasutajad ja rollid <a name="users"></a>
 
