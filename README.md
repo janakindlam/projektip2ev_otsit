@@ -48,7 +48,7 @@
 
 ## Kasutajad ja rollid <a name="users"></a>
 
-- Annetada süüa/mänguasju/raha
+- Leida vajalik kaup üles
 - Hoolitseda ja tegelda loomadega
 - Igakuine annetus
 - Panna kuulutusi ülesse
