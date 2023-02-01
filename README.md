@@ -139,19 +139,19 @@ Wireframe: Figma
 
 ## Tiim <a name="team"></a>
 
-[Karl-Mihkel Truu](github.com/krlmhkl/)
+Alex Salong
 
 Selles projektis õppisin enim projektihaldustarkvara kasutamist ja analüüsi protsessi jaotamist ajaliselt. Tulevikuprojektides oskan analüüsi teostada struktureeritumalt ja seetõttu ka tõhusamalt nii ajalises kui kvalitatiivses mõttes. 
 
-[Gendro Umber](github.com/GendroU/)
+Kristiina Kudritskaja
 
 Selles projektis õppisin rohkem tiimitööd tegema ja andmebaasi. Õppisin põhjalikumalt issues-i kirjutama. Õppisin ka uusi website kasutama, mis tegid töö lihtsamaks.
 
-[Kaur Luhaäär](github.com/Kaurluhaaar/)
+Liselle Unnam
 
 Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist, sain ka natuke rohkem oskusi juurde issue-de kirjutamisega.Kasutasin ka mõndasid uusi programme ja lehti millega ma polnud varem tegelenud.
 
-[Karl-Patric Rohi](github.com/Karl-Patric/)
+Jana Kindlam
 
 Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood ja mis moodi teha issues-i. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
 
