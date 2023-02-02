@@ -1,65 +1,104 @@
-*{
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+label {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+
+
+input[type="text"],
+select {
+	width: 300px;
+	height: 25px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+input[type=number],
+select {
+	width: 300px;
+	height: 25px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+button[type="submit"] {
+	width: 80px;
+	height: 30px;
+	background-color: #6f79d3;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
-body{
-	font-family:'Courier New', Courier, monospace;
+body {
+	font-family: 'Courier New', Courier, monospace;
 	min-height: 100vh;
-	color: #555;
+	color: rgb(54, 47, 47);
 }
 
-table{
-	width:  1000px;
-	margin: 30px auto;
+table {
+	width: 750px;
+	margin: 40px auto;
 }
 
-table th{
+table th {
 	padding: 10px 0;
-	background-color: #f4f4f4;
+	background-color: #cbbec8;
 	/* background-color: #fff; */
-	border:  thin solid #1373f9;
+	border: thin solid #3708e4;
 }
 
-table td{
+table td {
 	padding: 10px;
-	border:  thin solid #20c5ef;
-	width: 18%;
+	border: thin solid #20c5ef;
+	width: 20%;
 	text-align: center;
-	background-color: #fff;
+	background-color: rgb(236, 229, 244);
 }
 
-table img{
-	width:  70%;
-}
-
-table td.total-price{
+table td.total-price {
 	font-weight: bold;
 	font-size: 22px;
 }
-table a{
+
+table a {
 	text-decoration: none;
-	color: darkred;
-	background-color: #ffecef;
+	color: rgb(94, 170, 114);
+	background-color: #b6707b;
 	padding: 10px 15px;
 }
-table a:active{
+
+table a:active {
 	background-color: #ccf4d6;
-	color:  green;
+	color: green;
 }
 
-table select{
+table select {
 	padding: 10px;
-	width:  200px;
+	width: 200px;
 	font-size: 16px;
 	border: thin solid #d4d4d4;
 	background-color: transparent;
 }
-table select:focus{
+
+table select:focus {
 	outline: none;
 }
 
-table img{
-	width:  60%;
+table img {
+	width: 90%;
 }

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,21 +8,63 @@
     <title>Find It</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+    <div class="header">
+        <div class="navbar">
+            <img src="/product_images/unnamed.jpg">
+        
+        <ul>
+            <li><a href="#">Sisestaja</a></li>
+            <li><a href="#">Otsija</a></li>
+        </ul>
+    </div>
+    </div>
+    <div>
+    <form>
+        <label for="productImage">Pilt:</label>
+        <input type="text" id="productImage">
+        <br><br>
+
+        <label for="productName">Nimi:</label>
+        <input type="text" id="productName">
+        <br><br>
+
+        <label for="productPrice">Hind:</label>
+        <input type="text" id="productPrice">
+        <br><br>
+
+        <label for="productQuantity">Kogus:</label>
+        <input type="number" id="productQuantity" min=1>
+        <br><br>
+
+        <label for="productLocation">Asukoht poes/laos:</label>
+        <select id="productLocation">
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+        </select>
+        <br><br>
+
+        <button type="submit">Lisa</button>
+    </form>
+    </div>
     <table>
-       <thead>
-          <tr>
-             <th>Pilt</th>
-             <th>Nimi</th>
-             <th>Hind</th>
-             <th>Kogus</th>
-             <th>Asukoht poes/laos</th>
-          </tr>
-       </thead>
-       <tbody id="data-output">
-          <!-- js faili tooted/products siia -->
-       </tbody>
+        <thead>
+            <tr>
+                <th>Pilt</th>
+                <th>Nimi</th>
+                <th>Hind</th>
+                <th>Kogus</th>
+                <th>Asukoht poes/laos</th>
+            </tr>
+        </thead>
+        <tbody id="data-output">
+            <!-- js faili tooted/products siia -->
+        </tbody>
     </table>
-  
+
     <script src="index.js"></script>
+
 </html>

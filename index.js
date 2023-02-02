@@ -19,3 +19,22 @@ fetch("products.json")
 	 
 	   placeholder.innerHTML = out;
 	});
+
+
+const input = document.querySelector("#productImage");
+input.addEventListener("change", function(event) {
+  	const image = event.target.value;
+	console.log(image);
+});
+
+const pname = document.querySelector("#productName");
+pname.addEventListener("change", function(event) {
+  	const name = event.target.value;
+	console.log(name);
+});
+
+const select = document.querySelector("#productLocation");
+select.addEventListener("change", function(event) {
+	const selectedOption = event.target.value;
+	console.log(selectedOption);
+});
