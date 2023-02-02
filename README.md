@@ -129,11 +129,11 @@
 
 Projektihaldus: Linear, GitHub
 
-Kommunikatsioon: Slack, häälepaelad
+Kommunikatsioon: Slack, Teams
 
-Märkmed: GitHub, VS Code, Notes, notes.io, paber&pastakas, tahvel
+Märkmed: GitHub, paber ja pastakas, tahvel
 
-Mudelid-graafikud: draw.io, tahvel&marker
+Mudelid-graafikud: Figma, tahvel ja marker, VS Code
 
 Wireframe: Figma
 
@@ -153,7 +153,7 @@ Selles projektis õppisin projektihaldustarkvara kasutamist ja analüüsimist, s
 
 Jana Kindlam
 
-Selles projektis ma õppisin palju uut. Ma õppisin mis asjad on kasutaja lood ja mis moodi teha issues-i. Õppisin ka kasutama uusi programme mida ma pole enne kasutanud, need tulevad mul kindlasti tulevikus abiks.
+Tuletasin meelde Figmat ja töötasin tiimis.
 
 [Olev Kuris](github.com/olevkuris/)
 
